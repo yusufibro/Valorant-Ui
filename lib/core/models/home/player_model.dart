@@ -97,7 +97,7 @@ List<Player> players = [
   ),
   Player(
     id: 4,
-    name: 'Phonix',
+    name: 'Phoenix',
     role: 'Duelists',
     image: 'res/images/phonix.png',
     description:
