@@ -1,6 +1,6 @@
 # valorant
 
-A new Flutter project.
+Project Valorant Ui Design
 
 ## Getting Started
 
